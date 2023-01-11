@@ -11,7 +11,7 @@ http://162.55.220.72:5005
 req.
 GET
 name: str,
-age: int,
+age: int
 
 
 2) http://162.55.220.72:5005/user_info_2
@@ -19,7 +19,7 @@ req.
 POST
 name: str,
 age: int,
-salary: int,
+salary: int
 
 
 3) http://162.55.220.72:5005/user_info_3
@@ -27,32 +27,32 @@ req.
 POST
 name: str,
 age: int,
-salary: int,
+salary: int
 
 4) http://162.55.220.72:5005/object_info_1
 req.
 GET
 name: str,
 age: int,
-weight: int,
+weight: int
 
 5) http://162.55.220.72:5005/object_info_2
 req.
 GET
 name: str,
 age: int,
-salary: int,
+salary: int
 
 6) http://162.55.220.72:5005/object_info_3
 req.
 GET
 name: str,
 age: int,
-salary: int,
+salary: int
 
 7) http://162.55.220.72:5005/object_info_4
 req.
 GET
 name: str,
 age: int,
-salary: int,
+salary: int
